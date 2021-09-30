@@ -1,10 +1,10 @@
 [![GitHub forks](https://img.shields.io/github/forks/farizdotid/DAFTAR-API-LOKAL-INDONESIA?style=social)](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA/network) &nbsp;&nbsp; [![GitHub stars](https://img.shields.io/github/stars/farizdotid/DAFTAR-API-LOKAL-INDONESIA?style=social)](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA/stargazers)
 
-# Daftar API Lokal IndonesiA
+# Daftar API Lokal Indonesia
 
 Berisi API tentang Data Indonesia.
 
-# Daftar dalam bahasa laiN
+# Daftar dalam bahasa lain
 
 * [English](README-EN.md)
 
