@@ -109,7 +109,7 @@ Berisi API tentang Data Indonesia.
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Hot thread kaskus (Un-official) | Bayu | [Link](https://api.bayyu.net/) | `Aktif` | Mendapatkan hot-thread dari [Kaskus] |  `apiKey` |
-| Kaskus API | Kaskus Dev | [Link](https://github.com/kaskus/kaskus-php-sdk/wiki) | `Aktif` | API untuk mengakses forum terkenal di Indonesia - [Kaskus] | `OAuth` |
+| Kaskus API | Kaskus Dev | [Link](https://github.com/kaskus/kaskus-php-sdk/wiki) | `Aktif` | API untuk mengakses forum terkenal di Indonesia - [Kaskus] | `OAuth` | Reddit | Reddit | [Link](https://www.reddit.com/dev/api) | 'Aktif' | Ini adalah dokumentasi yang dibuat secara otomatis untuk reddit API. | `OAuth`
 
 ### Hiburan
 
