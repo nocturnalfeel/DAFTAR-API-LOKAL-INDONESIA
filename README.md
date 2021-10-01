@@ -106,6 +106,7 @@ Berisi API tentang Data Indonesia.
 | GOPAY | GOPAY | [Link](https://doc.gopay.com/#authentication) | `Aktif` | GOPAY REST API | `Oauth` |
 | Flip | Big Flip API | [Link](https://docs.flip.id/#authentication) | `Aktif` | Flip API | `Basic Auth` |
 | BRI | BRI | [Link](https://developers.bri.co.id/en/docs/dokumentasi) | `Aktif` | BRI API | `OAuth` |
+| Mandiri | Mandiri | [Link](https://apidashboard.io/companies/mandiri-bank) | `Aktif` | Mandiri API | Tidak |
 
 ### Forum
 
