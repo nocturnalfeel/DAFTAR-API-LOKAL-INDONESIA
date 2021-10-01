@@ -156,6 +156,7 @@ This file is translation from Original (Bahasa Indonesia).
 | MusixMatch | MusixMatch Dev | [Link](https://developer.musixmatch.com/) | `Active` | Search for song information and lyrics | `apiKey` |
 | SoundCloud | SoundCloud Dev | [Link](https://developers.soundcloud.com/) | `Active` | Upload dan share music | `apiKey` |
 | Spotify | Spotify Dev | [Link](https://developer.spotify.com/web-api/) | `Active` | Spotify Catalog | `OAuth` |
+| Apple Music | Apple | [Link](https://developer.apple.com/documentation/applemusicapi/) | `Active` | Apple Music API | No |
 
 ### News
 
