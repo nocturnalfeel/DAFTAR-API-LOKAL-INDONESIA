@@ -104,6 +104,7 @@ Berisi API tentang Data Indonesia.
 | MobilePulsa API | MobilePulsa Official | [Link](https://developer.mobilepulsa.net/documentation) | `Aktif` | API Gateway resmi dari MobilePulsa untuk pembayaran pulsa, top up, PLN, voucher game, dll | `apiKey`
 | Currency Exchange | azharimm | [Link](https://github.com/azharimm/currency-exchange-api) | `Aktif` | Currency Exchange | Tidak |
 | GOPAY | GOPAY | [Link](https://doc.gopay.com/#authentication) | `Aktif` | GOPAY REST API | `Oauth` |
+| Flip | Big Flip API | [Link](https://docs.flip.id/#authentication) | `Aktif` | Flip API | `Basic Auth` |
 
 ### Forum
 
