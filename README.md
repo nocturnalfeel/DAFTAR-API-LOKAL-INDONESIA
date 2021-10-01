@@ -105,7 +105,7 @@ Berisi API tentang Data Indonesia.
 | Currency Exchange | azharimm | [Link](https://github.com/azharimm/currency-exchange-api) | `Aktif` | Currency Exchange | Tidak |
 | GOPAY | GOPAY | [Link](https://doc.gopay.com/#authentication) | `Aktif` | GOPAY REST API | `Oauth` |
 | Flip | Big Flip API | [Link](https://docs.flip.id/#authentication) | `Aktif` | Flip API | `Basic Auth` |
-| BRI | BRI | [Link](https://developers.bri.co.id/en/docs/dokumentas) | `Aktif` | BRI API | `OAuth` |
+| BRI | BRI | [Link](https://developers.bri.co.id/en/docs/dokumentasi) | `Aktif` | BRI API | `OAuth` |
 
 ### Forum
 
