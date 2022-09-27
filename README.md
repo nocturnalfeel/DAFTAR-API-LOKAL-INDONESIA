@@ -34,6 +34,7 @@ Berisi API tentang Data Indonesia.
     - [Ramalan Cuaca](#ramalan-cuaca)
     - [Sertifikasi](#sertifikasi)
     - [Utilitas](#utilitas)
+    - [Games](#games)
   - [Kontak](#kontak)
   - [:fire: TERIMAKASIH :fire:](#fire-terimakasih-fire)
 - [Lisensi](#lisensi)
@@ -277,6 +278,10 @@ Berisi API tentang Data Indonesia.
 | Hadi API | m hadi firmansya | [Link](https://hadi-api.herokuapp.com/api) | `Aktif` | Hasil Scrape Website | Tidak |
 | Sentiment Classification API | ramnaufal | [Link](https://ramnaufal.herokuapp.com/#/Sentiment/post_sentiment_single) | `Aktif` | Mengklasifikasikan sentiment sebuah kalimat | Tidak |
 | Free API | Helix x 4DSec | [Link](https://tools.helixs.id/home/?API) | `Aktif` | Kumpulan Free API tanpa Limit | Tidak |
+
+ Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
+| ---------------|:---------:|:---:|:-------:|:----------|:------:|
+| OpenDota API | Redoc | [Link](https://docs.opendota.com/) | `Aktif` | OpenDota API menyediakan data terkait Dota 2 termasuk data pertandingan lanjutan yang diekstrak dari tayangan ulang pertandingan. | `Auth` |
 
 ## Kontak
 
