@@ -282,6 +282,7 @@ Berisi API tentang Data Indonesia.
  Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | ---------------|:---------:|:---:|:-------:|:----------|:------:|
 | OpenDota API | Redoc | [Link](https://docs.opendota.com/) | `Aktif` | OpenDota API menyediakan data terkait Dota 2 termasuk data pertandingan lanjutan yang diekstrak dari tayangan ulang pertandingan. | `Auth` |
+| Apex Legend Status API | Apex Legend | [Link](https://apexlegendsapi.com/#introduction) | `Aktif` | Welcome to the unofficial apex legends API! This API is aimed at providing an easy way for developers to access Apex Legends player data, and also general game data. | `Auth` |
 
 ## Kontak
 
