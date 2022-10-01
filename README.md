@@ -283,7 +283,7 @@ Berisi API tentang Data Indonesia.
 | ---------------|:---------:|:---:|:-------:|:----------|:------:|
 | OpenDota API | Redoc | [Link](https://docs.opendota.com/) | `Aktif` | OpenDota API menyediakan data terkait Dota 2 termasuk data pertandingan lanjutan yang diekstrak dari tayangan ulang pertandingan. | `Auth` |
 | Apex Legend Status API | Apex Legend | [Link](https://apexlegendsapi.com/#introduction) | `Aktif` | Welcome to the unofficial apex legends API! This API is aimed at providing an easy way for developers to access Apex Legends player data, and also general game data. | `Auth` |
-
+| Valorant API | Valorant | [Link](https://dash.valorant-api.com/) | `Aktif` | We provide an extensive API containing data of most in-game items, assets and more! All data comes straight from the Valorant game files and will get updated automatically once another patch gets released. | `No Auth` |
 ## Kontak
 
 Jika ada yang ingin ditambahkan atau dikoreksi bisa PM ke Facebook saya [Fariz Ramadhan](https://www.facebook.com/farizdotid) ya! ATAU berkomentar via fitur [Issues](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA/issues) ATAU langsung edit saja nanti biar didiskusikan terlebih dahulu.
