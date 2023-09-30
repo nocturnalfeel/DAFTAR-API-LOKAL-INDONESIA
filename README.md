@@ -288,6 +288,7 @@ Berisi API tentang Data Indonesia.
 | Overwatch API | timomak | [Link](https://timomak.github.io/Overwatch-API/#/README) | `Aktif` | This documentation will help you get familiar with the resources of the Overwatch API and show you how to make different queries, so that you can get the most out of it. | `No Auth` |
 | Roblox Engine API | Roblox | [Link](https://create.roblox.com/docs/reference/engine) | `Aktif` | This API Reference documents all of the classes, data types, enumerations, functions, events, callbacks, and properties that you can use when creating on Roblox. | `No Auth` |
 | CSGO API | Valve Steam | [Link](https://public-api.tracker.gg/v2/csgo/standard/profile/{platform}/{platformUserIdentifier) | `Aktif` | Get a CSGO player's profile stats (v2) | `No Auth` |
+| Fortnite | Fortnite | [Link](https://dash.fortnite-api.com/) | `Aktif` | A powerful Fortnite API containing data of all cosmetics, daily shop, player stats, news, gamemodes and more! | `No Auth` |
 ## Kontak
 
 Jika ada yang ingin ditambahkan atau dikoreksi bisa PM ke Facebook saya [Fariz Ramadhan](https://www.facebook.com/farizdotid) ya! ATAU berkomentar via fitur [Issues](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA/issues) ATAU langsung edit saja nanti biar didiskusikan terlebih dahulu.
