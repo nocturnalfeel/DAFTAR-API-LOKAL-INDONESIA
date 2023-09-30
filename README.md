@@ -289,6 +289,7 @@ Berisi API tentang Data Indonesia.
 | Roblox Engine API | Roblox | [Link](https://create.roblox.com/docs/reference/engine) | `Aktif` | This API Reference documents all of the classes, data types, enumerations, functions, events, callbacks, and properties that you can use when creating on Roblox. | `No Auth` |
 | CSGO API | Valve Steam | [Link](https://public-api.tracker.gg/v2/csgo/standard/profile/{platform}/{platformUserIdentifier) | `Aktif` | Get a CSGO player's profile stats (v2) | `No Auth` |
 | Fortnite | Fortnite | [Link](https://dash.fortnite-api.com/) | `Aktif` | A powerful Fortnite API containing data of all cosmetics, daily shop, player stats, news, gamemodes and more! | `No Auth` |
+| League of Legends | Riot Games | [Link](https://developer.riotgames.com/apis#account-v1) | `Aktif` | This document will provide you with a basic understanding of the Riot Games Developer Portal. It is designed to help you begin exploring and developing your own tools and products to positively impact the experience for players of Riot's games. We can't wait to see what you make! | `No Auth` |
 ## Kontak
 
 Jika ada yang ingin ditambahkan atau dikoreksi bisa PM ke Facebook saya [Fariz Ramadhan](https://www.facebook.com/farizdotid) ya! ATAU berkomentar via fitur [Issues](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA/issues) ATAU langsung edit saja nanti biar didiskusikan terlebih dahulu.
