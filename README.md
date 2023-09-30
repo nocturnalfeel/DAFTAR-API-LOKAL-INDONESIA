@@ -289,6 +289,7 @@ Berisi API tentang Data Indonesia.
 | Roblox Engine API | Roblox | [Link](https://create.roblox.com/docs/reference/engine) | `Aktif` | This API Reference documents all of the classes, data types, enumerations, functions, events, callbacks, and properties that you can use when creating on Roblox. | `No Auth` |
 | CSGO API | Valve Steam | [Link](https://public-api.tracker.gg/v2/csgo/standard/profile/{platform}/{platformUserIdentifier) | `Aktif` | Get a CSGO player's profile stats (v2) | `No Auth` |
 | Fortnite | Fortnite | [Link](https://dash.fortnite-api.com/) | `Aktif` | A powerful Fortnite API containing data of all cosmetics, daily shop, player stats, news, gamemodes and more! | `No Auth` |
+| Warframe | Redocly | [Link](https://docs.warframestat.us/#tag/Warframe) | `Aktif` | Get Warframe Worldstate Data for the provided platform | `No Auth` |
 ## Kontak
 
 Jika ada yang ingin ditambahkan atau dikoreksi bisa PM ke Facebook saya [Fariz Ramadhan](https://www.facebook.com/farizdotid) ya! ATAU berkomentar via fitur [Issues](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA/issues) ATAU langsung edit saja nanti biar didiskusikan terlebih dahulu.
