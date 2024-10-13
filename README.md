@@ -148,7 +148,8 @@ Berisi API tentang Data Indonesia.
 | Cek Resi | binderbyte | [Link](https://docs.binderbyte.com/api/cek-resi) | `Aktif` | API Cek Resi adalah api yang berguna untuk melacak resi secara otomatis mulai dari jne, pos, jnt, wahana, tiki, sicepat dll. | `apiKey` |
 | J&T | J&T Official | [Link](https://developer.jet.co.id/documentation) | `Aktif` | API Resmi yang diterbitkan oleh J&T untuk layanan AWB, Order Tracking, Cek Tarif, dan Pembatalan Order. | `apiKey` |
 | POST Indonesia | Trackingmore | [Link](https://www.trackingmore.com/indonesia-post-tracking-api.html) | `Aktif` | Jasa pengiriman | `apiKey` |
-| TIKI | TIKI Developer Platform | https://open.tiki.vn/docs/docs/current/api-references/product-api/ | `Aktif` | Referensi API TIKI | `OAuth 2.0`
+| TIKI | TIKI Developer Platform | [Link](https://open.tiki.vn/docs/docs/current/api-references/product-api/) | `Aktif` | Referensi API TIKI | `OAuth 2.0` |
+| Anteraja | Anteraja | [Link]([https://open.tiki.vn/docs/docs/current/api-references/product-api/](https://developer.anteraja.id/#anteraja-api-documentation-v2-0-9)) | `Aktif` | Anteraja API | `apiKey` |
 
 ### Kegiatan Sehari-hari
 
