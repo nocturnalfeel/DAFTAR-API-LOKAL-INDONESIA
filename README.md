@@ -171,7 +171,7 @@ Berisi API tentang Data Indonesia.
 | All In One Video Downloader API | Abdul Muttaqin | [Link](https://fdciabdul.tech/downloader/) | `Aktif` | Unofficial API Untuk mendapatkan data sumber video dari berbagai sosial media  | Tidak |
 | Twitter Trends | azharimm | [Link](https://github.com/azharimm/twitter-trends-api) | `Aktif` | Unofficial API Twitter trends data | Tidak |
 | TikTok | TikTok | [Link](https://ads.tiktok.com/marketing_api/docs?id=1701890973258754) | `Aktif` | TikTok Marketing API | Tidak |
-
+| Telegram | Telegram | [Link](https://core.telegram.org/api) | `Aktif` | Telegram APIs | `apiKey` |
 
 ### Kegiatan Khusus
 
